@@ -1,2 +1,2 @@
 # BridgeLabz
-BridgeLabz practice
+BridgeLabz practice for git workflows.
